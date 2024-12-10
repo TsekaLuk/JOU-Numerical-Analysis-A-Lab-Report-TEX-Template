@@ -6,7 +6,7 @@ A professional LaTeX template for laboratory reports at Jiangsu Ocean University
 
 ### Cover Page
 <div align="center">
-  <img src="docs/images/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_00.png" alt="Cover Page" width="600"/>
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_00.png" alt="Cover Page" width="600"/>
 </div>
 
 ### Mathematical Equations and Theory
