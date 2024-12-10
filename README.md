@@ -15,13 +15,7 @@ A professional LaTeX template for laboratory reports at Jiangsu Ocean University
 
 ## Requirements
 
-- XeLaTeX compiler
-- Chinese fonts:
-  - SimSun (宋体)
-  - SimHei (黑体)
-  - STXinwei (华文新魏)
-  - FandolKai (楷体)
-- Times New Roman font
+- XeLaTeX compiler & Overleaf
 
 ## Installation
 
