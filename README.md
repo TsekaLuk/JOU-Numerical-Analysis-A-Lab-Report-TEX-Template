@@ -2,6 +2,38 @@
 
 A professional LaTeX template for laboratory reports at Jiangsu Ocean University, featuring bilingual support, custom formatting, and comprehensive academic document elements.
 
+## Template Preview
+
+### Cover Page
+<div align="center">
+  <img src="docs/images/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_00.png" alt="Cover Page" width="600"/>
+</div>
+
+### Mathematical Equations and Theory
+<div align="center">
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_01.png" alt="Math Equations" width="600"/>
+</div>
+
+### Algorithm Description
+<div align="center">
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_02.png" alt="Algorithm Section" width="600"/>
+</div>
+
+### Code Implementation
+<div align="center">
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_03.png" alt="Code Section" width="600"/>
+</div>
+
+### Data Analysis and Visualization
+<div align="center">
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_04.png" alt="Results Analysis" width="600"/>
+</div>
+
+### Conclusion and References
+<div align="center">
+  <img src="docs/JOU_Numerical_Analysis_A_Lab_Report_TEX_Template_05.png" alt="Conclusion and References" width="600"/>
+</div>
+
 ## Features
 
 - Bilingual support (Chinese/English) with proper font handling
