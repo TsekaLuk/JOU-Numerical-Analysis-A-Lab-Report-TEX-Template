@@ -478,3 +478,19 @@
     pdfcreator={XeLaTeX with joulabreprot class}
   }
 }
+
+% 定义插入代码文件的命令
+\newcommand{\inputcode}[2][]{%
+  \lstinputlisting[
+    language=#1,
+    caption=代码文件：#2,
+    frame=single,
+    numbers=left,
+    breaklines=true,
+    basicstyle=\small\ttfamily,
+    keywordstyle=\color{codeblue},
+    commentstyle=\color{codegray},
+    stringstyle=\color{codepurple},
+    showstringspaces=false
+  ]{#2}%
+}
